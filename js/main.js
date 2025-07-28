@@ -86,7 +86,7 @@
     $(".testimonial__slider").owlCarousel({
         loop: true,
         margin: 0,
-        items: 3,
+        items: 15,
         dots: true,
         dotsEach: 2,
         smartSpeed: 1200,
@@ -111,7 +111,7 @@
     $(".latest__slider").owlCarousel({
         loop: true,
         margin: 0,
-        items: 3,
+        items: 15,
         dots: true,
         dotsEach: 2,
         smartSpeed: 1200,
@@ -136,7 +136,7 @@
     $(".logo__carousel").owlCarousel({
         loop: true,
         margin: 100,
-        items: 6,
+        items: 15,
         dots: false,
         smartSpeed: 1200,
         autoHeight: false,
